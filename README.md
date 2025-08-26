@@ -90,6 +90,6 @@ This repository is licensed under the **MIT License** – you’re free to use, 
 
 ---
 
-## ✨ Author
-Created with dedication by **Zainab**.  
+## ✨ Author  
+Created with dedication by **[Zainab](https://github.com/zainabirfan17-dev)**.  
 These projects reflect my early journey into Python development — from following tutorials to adding my own tweaks. 🚀
